@@ -1,0 +1,4 @@
+Welcome to Rock, Paper, Scissors!
+Enter your choice (rock, paper, or scissors): rock
+Computer chose: scissors
+You win!
